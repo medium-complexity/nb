@@ -1,11 +1,7 @@
 Notebook Jupyter com código em R para análise de dados neurofisiológicos coletados durante a realização de tarefas de análise de código. O objetivo principal é investigar a influência do uso de LLMs (Modelos de Linguagem Ampla) e de blends (misturas de diferentes tipos de informação) no desempenho e nas respostas neurofisiológicas dos participantes.
 
-**Dataset:**
+* **Tarefas de Média Complexidade:** Contém dados de participantes realizando tarefas de análise de código relativamente simples.
 
-O notebook utiliza dois datasets:
-
-* **Tarefas de Baixa Complexidade:** Contém dados de participantes realizando tarefas de análise de código relativamente simples.
-* **Tarefas de Alta Complexidade:** Contém dados de participantes realizando tarefas de análise de código mais complexas.
 
 **Análises Realizadas:**
 
